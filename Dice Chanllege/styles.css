@@ -1,5 +1,5 @@
 .container {
-  width: 70%;
+  width: 72%;
   margin: auto;
   text-align: center;
 }
@@ -7,6 +7,8 @@
 .dice {
   text-align: center;
   display: inline-block;
+  font-family: 'Lobster', cursive;
+  
 
 }
 
@@ -30,11 +32,11 @@ p {
 }
 
 img {
-  width: 80%;
+  width: 90%;
 }
 
 footer {
-  margin-top: 5%;
+  margin-top: 6%;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
